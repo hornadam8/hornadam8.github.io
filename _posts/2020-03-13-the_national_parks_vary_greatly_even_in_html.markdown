@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The National Parks vary greatly, even in HTML..."
-date:       2020-03-13 21:58:46 +0000
+date:       2020-03-13 17:58:47 -0400
 permalink:  the_national_parks_vary_greatly_even_in_html
 ---
 
