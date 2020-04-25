@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How to turn an array into a html grid layout"
-date:       2020-04-25 18:18:11 +0000
+date:       2020-04-25 14:18:12 -0400
 permalink:  how_to_turn_an_array_into_a_html_grid_layout
 ---
 
@@ -23,7 +23,7 @@ I spent the last week building out my sinatra project called Park Hopper. The id
 
 So I assign the user after authentication in a separate controller and use an instance method to create an array of all park objects. #@i is my counter for setting the class item number in my erb file(we'll get there). And by using #each_slice(3).to_a I turned my array into an array of arrays each containing 3.... oh except 62 isn't divisible by 3, so the last one contains only 2. This presented an additional hurdle for the view...
 
-> <%@chunks.each do |park|%>
+>  <%@chunks.each do |park|%>
 > 
 >      <div class="item<%=@i%>">
           <img src="<%=park[0].image%>"
