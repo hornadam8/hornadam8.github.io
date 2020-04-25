@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "How to turn an array into a html grid layout"
+title:      "How to turn an unwieldy array into a clean html grid layout"
 date:       2020-04-25 14:18:12 -0400
 permalink:  how_to_turn_an_array_into_a_html_grid_layout
 ---
