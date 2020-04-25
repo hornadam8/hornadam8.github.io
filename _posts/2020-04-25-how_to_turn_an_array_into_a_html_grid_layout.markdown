@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "How to Turn an Unwieldy Array into a Clean HTML grid Layout in ERB"
+title:      "How to Turn an Unwieldy Array into a Clean HTML Grid Layout in ERB"
 date:       2020-04-25 14:18:12 -0400
 permalink:  how_to_turn_an_array_into_a_html_grid_layout
 ---
