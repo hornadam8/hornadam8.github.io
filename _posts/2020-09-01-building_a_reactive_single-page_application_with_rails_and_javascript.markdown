@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building a Reactive Single-Page Application with Rails and Javascript "
-date:       2020-09-01 10:07:30 +0000
+date:       2020-09-01 06:07:31 -0400
 permalink:  building_a_reactive_single-page_application_with_rails_and_javascript
 ---
 
